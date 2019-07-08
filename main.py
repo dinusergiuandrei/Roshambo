@@ -3,7 +3,7 @@ import os
 from players.CliPlayer import CliPlayer
 from players.CopyStrategy import CopyPlayer
 from players.RandomPlayer import RandomPlayer
-from players.RnPlayer import AnnPlayer
+from players.AnnPlayer import AnnPlayer
 from players.GeneticAlgorithmPlayer import GAPlayer
 from utils import *
 import random
